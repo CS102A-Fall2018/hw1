@@ -1,7 +1,7 @@
 # CS102A - HW#1
 
-Due 01/26/18 at 12AM.  
-Late submissions are subject to a 20% late penalty.
+Due 09/15/18 at 11:59PM.  
+Late submissions are subject to a 10% late penalty.
 
 ## Reading
 The C Programming Language, 2nd Edition - Kerninghan & Ritchie  
